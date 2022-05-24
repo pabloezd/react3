@@ -1,46 +1,91 @@
-# Ecommerce de ejemplo
+FERRETERIA PALO
 
-_Se crea un ecommerce para el curso de Coderhouse: React_ 
+¡Comprá tus herramientas eléctricas, y realizá el proyecto que tanto querés!🚀
 
-## Comenzando 🚀
+Comenzando Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
 
-_La idea es que los alumnos tengan una guia para realizar hasta la preentrega del proyecto_
+Puedes ingresar haciendo click en el siguiente link https://github.com/pabloezd/projectReact
 
-### Instalación 🔧
+Pre-requisitos 📋 macOS 10.12 or later Windows 7 64-bit or later.
 
-_Para descargar el proyecto pueden descargar el repositorio en formato zip_
+Instalación 🔧 Clona el repositorio en visual studio o desde powershell copiando: $ git clone https://github.com/pabloezd/projectReact.git/
 
-_1 - Ir a "Code" -> "Dowload Zip"_
+Tambien lo puedes descargar como Zip y volcarlo a un editor de código como es Visual Studio Code!
 
-_2 - Descomprimir el archivo_
+Ejecutando las pruebas ⚙️ Explica como ejecutar las pruebas automatizadas para este sistema
 
-_3 - En la carpeta donde se encuentra en "package.json" ejecutar en una terminal:_
+Analice las pruebas end-to-end 🔩 Explica que verifican estas pruebas y por qué
 
-```
-npm install
-```
+Da un ejemplo Y las pruebas de estilo de codificación ⌨️ Explica que verifican estas pruebas y por qué
 
-_4 - Una vez finalizado, ejecutar:_
+Da un ejemplo Despliegue 📦 Agrega notas adicionales sobre como hacer deploy
 
-```
+Construido con 🛠️ Menciona las herramientas que utilizaste para crear tu proyecto
+
+Dropwizard - El framework web usado Maven - Manejador de dependencias ROME - Usado para generar RSS Contribuyendo 🖇️ Por favor lee el CONTRIBUTING.md para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
+
+Getting Started with Create React App
+
+This project was bootstrapped with Create React App.
+
+Available Scripts
+
+In the project directory, you can run:
+
 npm start
-```
 
-### Instalación con git clone🔧
-_Se puede clonar el repositorio, ingresando a una terminal y ejecutando:_
-```
-git clone https://github.com/rod77/Ecommerce_ejemplo.git
-```
-Luego continuar con el paso 3 de la otra forma 
+Runs the app in the development mode. Open http://localhost:3000 to view it in your browser.
 
-## Despliegue 📦
+The page will reload when you make changes. You may also see any lint errors in the console.
 
-_El mismo fue desplegado en Vercel para que lo vean ejecutando, por si no quieren descargar el proyecto_
-https://ecommerce-ejemplo.vercel.app/
+npm test
 
-## Construido con 🛠️
+Launches the test runner in the interactive watch mode. See the section about running tests for more information.
 
-<img height="20" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> *REACT*
+npm run build
 
----
-⌨️ 😊
+Builds the app for production to the build folder. It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes. Your app is ready to be deployed!
+
+See the section about deployment for more information.
+
+npm run eject
+
+Note: this is a one-way operation. Once you eject, you can't go back!
+
+If you aren't satisfied with the build tool and configuration choices, you can eject at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except eject will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use eject. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+Learn More
+
+You can learn more in the Create React App documentation.
+
+To learn React, check out the React documentation.
+
+Code Splitting
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+
+Analyzing the Bundle Size
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+
+Making a Progressive Web App
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+
+Advanced Configuration
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+
+Deployment
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+
+npm run build fails to minify
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
