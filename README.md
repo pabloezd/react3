@@ -2,13 +2,15 @@ FERRETERIA PALO
 
 ¡Comprá tus herramientas eléctricas, y realizá el proyecto que tanto querés!🚀
 
+Video de funcionamiento de la pagina: https://drive.google.com/file/d/1zk8uCOz7kiiDCmMng6ny5PR9wXV_qW43/view?usp=sharing
+
 Comenzando Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
 
-Puedes ingresar haciendo click en el siguiente link https://github.com/pabloezd/projectReact
+Puedes ingresar haciendo click en el siguiente link https://github.com/pabloezd/react3
 
 Pre-requisitos 📋 macOS 10.12 or later Windows 7 64-bit or later.
 
-Instalación 🔧 Clona el repositorio en visual studio o desde powershell copiando: $ git clone https://github.com/pabloezd/projectReact.git/
+Instalación 🔧 Clona el repositorio en visual studio o desde powershell copiando: $ git clone https://github.com/pabloezd/react3.git/
 
 Tambien lo puedes descargar como Zip y volcarlo a un editor de código como es Visual Studio Code!
 
